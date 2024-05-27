@@ -9,7 +9,7 @@ A Python bot and automated clicker for accumulating TapSwap on Telegram.
 
 1. Clone the repository
    ```
-   git clone https://github.com/Poryaei/TapSwap-Clicker.git
+   git clone https://github.com/VernonDevID/TapSwap-Clicker.git
    ```
    
 2. Install dependencies
